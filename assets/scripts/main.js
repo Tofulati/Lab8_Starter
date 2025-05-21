@@ -133,7 +133,7 @@ async function getRecipes() {
 }
 
 /**
- * Takes in an array of recipes, converts it to a string, and then
+ * Takes in an array of recipes, converts it to a str`ing, and then
  * saves that string to 'recipes' in localStorage
  * @param {Array<Object>} recipes An array of recipes
  */
